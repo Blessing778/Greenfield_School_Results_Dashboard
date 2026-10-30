@@ -52,9 +52,13 @@ I recommend extra Math’s lessons and to review attendance for the 37 students 
 
 
 ## 📁 Files In This Repository
-- `Greenfield_Raw_Data.xlsx` - Original dataset with duplicates and inconsistent names
-- `Greenfield_Dashboard.xlsx` - Final workbook with Pivots, Charts and SUMMARY sheet
-- `README.md` - Project documentation
+### 📂 Dataset Files (Click to view/download)
+
+1. [📊 Greenfield_School_Results_Dataset.xlsx](./Greenfield_School_Results_Dataset.xlsx) - Original dataset
+
+2. [📊 Greenfield_School_Results_Dataset_Blessing_Jo.xlsx](./Greenfield_School_Results_Dataset_Blessing_Jo.xlsx) - My Analysis Workbook (with 5 charts, PivotTables & Slicers)
+
+3. README.MD
 
 ## ✅ Conclusion
 Based on the data, JSS3B should be used as a model for other classes. The school should focus extra lessons on Mathematics and provide intervention for the 37 students below 50. Before making a big decision, I recommend checking attendance and behavior records for struggling students. The dashboard provides a clear, data-driven view for the Principal to take action.
